@@ -1,4 +1,4 @@
-# ASSSASTJ-Hacks
+# Schulich Hacks 2023: Monkey See, Monkey Dispose-of-Waste-Appropriately
 Sources we used for this project
 
 Open Source ML Model that we integrated into our project
